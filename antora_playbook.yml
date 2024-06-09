@@ -5,9 +5,10 @@ site:
 
 content:
   sources:
-#  - url: https://github.com/Faxter/xiv-guides.git
-  - url: ../xiv-guides
+  # this is home-component
   - url: ./
+  - url: ../xiv-guides
+  
 
 ui:
   bundle:
