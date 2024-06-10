@@ -1,1 +1,5 @@
-= Home
+= Here be dragons
+
+Derzeit gibt es hier nur Guides zu Final Fantasy XIV.
+
+xref:component-xiv:ROOT:home.adoc[XIV Guides]
