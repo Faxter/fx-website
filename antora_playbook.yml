@@ -1,15 +1,13 @@
 site:
   title: Faxxter
   url: https://faxxter.com
-  start_page: component-home::index.adoc
+  start_page: home::index.adoc
 
 content:
   sources:
-  # this is home-component
   - url: ./
   - url: ../xiv-guides
   
-
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
