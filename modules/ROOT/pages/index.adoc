@@ -2,4 +2,4 @@
 
 Derzeit gibt es hier nur Guides zu Final Fantasy XIV.
 
-xref:component-xiv:ROOT:home.adoc[XIV Guides]
+xref:xiv:ROOT:home.adoc[XIV Guides]
