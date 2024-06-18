@@ -7,6 +7,10 @@ content:
   sources:
   - url: ./
   - url: ../xiv-guides
+
+asciidoc:
+  attributes:
+    figure-caption: Bild
   
 ui:
   bundle:
