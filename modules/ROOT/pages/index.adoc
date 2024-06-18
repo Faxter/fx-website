@@ -1,5 +1,7 @@
 = Here be dragons
 
-Derzeit gibt es hier nur Guides zu Final Fantasy XIV.
+Diese Seite wird in https://docs.asciidoctor.org/asciidoc/latest/[AsciiDoc] geschrieben und mit https://docs.antora.org/antora/latest/[Antora] zusammengebaut.
+
+Derzeit gibt es hier nur Guides zu Final Fantasy XIV:
 
 xref:xiv:ROOT:home.adoc[XIV Guides]
