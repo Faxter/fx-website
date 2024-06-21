@@ -1,5 +1,4 @@
 = Here be dragons
-:page-docdate: {docdate}
 
 Diese Seite wird in https://docs.asciidoctor.org/asciidoc/latest/[AsciiDoc] geschrieben und mit https://docs.antora.org/antora/latest/[Antora] zusammengebaut.
 
