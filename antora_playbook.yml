@@ -11,6 +11,11 @@ content:
 asciidoc:
   attributes:
     figure-caption: Bild
+    note-caption: Notiz 💡
+    tip-caption: Tipp ✔
+    important-caption: Wichtig ❗
+    caution-caption: Vorsicht ⚠
+    warning-caption: Warnung ‼
   
 ui:
   bundle:
