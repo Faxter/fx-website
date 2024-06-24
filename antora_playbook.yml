@@ -3,6 +3,9 @@ site:
   url: https://faxxter.com
   start_page: home::index.adoc
 
+urls:
+  latest_version_segment: ''
+
 content:
   sources:
   - url: ./
