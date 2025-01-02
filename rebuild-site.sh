@@ -9,7 +9,11 @@ echo -e "\n\n"
 
 echo -e "----- deleting site"
 rm -rf build/site
+rm -rf /var/www/faxxter/*
 echo -e "\n\n"
 
 echo -e "----- generating new site"
 npx antora antora_playbook.yml --fetch
+
+echo -e "----- copying data"
+cp -r build/site/* /var/www/faxxter
